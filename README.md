@@ -21,3 +21,7 @@
 *ram output*
 
 <img width="792" height="252" alt="Image" src="https://github.com/user-attachments/assets/0a7eefb7-11f5-4379-9bfe-27ae53bfe7d6" />
+
+*pipeline processor output*
+
+<img width="652" height="288" alt="Image" src="https://github.com/user-attachments/assets/00612628-c952-4273-a332-798a1ee86718" />

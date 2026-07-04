@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*alu output*
 
+<img width="552" height="205" alt="Image" src="https://github.com/user-attachments/assets/53315634-3202-4464-92a5-1b623b7fa45a" />
 
 
 

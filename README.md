@@ -25,3 +25,7 @@
 *pipeline processor output*
 
 <img width="652" height="288" alt="Image" src="https://github.com/user-attachments/assets/00612628-c952-4273-a332-798a1ee86718" />
+
+*fir filter*
+
+<img width="1375" height="881" alt="Image" src="https://github.com/user-attachments/assets/854d10ac-e346-4660-85fe-4cc0ba1a75a3" />
